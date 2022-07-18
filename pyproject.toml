@@ -1,3 +1,11 @@
+[brain-games]
+name = "braingameshexlet"
+version = "0.1.0"
+description = "Brain games for brain."
+authors = [
+    "ExPress322"
+]
+
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
